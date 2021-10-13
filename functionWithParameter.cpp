@@ -2,12 +2,12 @@
 //
 // Created by: Haokai
 // Created on: Oct 2021
-// This Program is about fahrenheit
+// This Program is about functions with parameter
 #include <iostream>
 #include <string>
 
 void CalculateAreaTriangle(float length, float height) {
-    // This Program is about fahrenheit
+    // This Program calculate the area of the triangle
     float area;
 
     // process
